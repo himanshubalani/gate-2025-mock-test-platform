@@ -1,0 +1,5 @@
+{
+  "name": "GATE 2025 Mock Test Platform",
+  "description": "A feature-rich mock test application featuring a 3-hour timer, question palette, and detailed post-test analytics including performance charts and AI-powered explanations. Content based on GATE 2025 CS papers.",
+  "requestFramePermissions": []
+}
