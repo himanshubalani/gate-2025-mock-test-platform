@@ -1,5 +1,1384 @@
 [
     {
+        "id": "OE3aFVLmDZFF.0.5378449845780480",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>In appreciation of the social improvements completed in a town, a wealthy philanthropist\ndecided to gift Rs 750 to each male senior citizen in the town and Rs 1000 to each female\nsenior citizen. Altogether, there were 300 senior citizens eligible for this gift. However,\nonly 8/9<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mrow><mi>t</mi><mi>h</mi></mrow></msup></mrow><annotation encoding=\"application/x-tex\">^{th}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8491em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8491em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">t</span><span class=\"mord mathnormal mtight\">h</span></span></span></span></span></span></span></span></span></span></span></span></span> of the eligible men and 2/3<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mrow><mi>r</mi><mi>d</mi></mrow></msup></mrow><annotation encoding=\"application/x-tex\">^{rd}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8491em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8491em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mord mathnormal mtight\">d</span></span></span></span></span></span></span></span></span></span></span></span></span> of the eligible women claimed the gift. How much\nmoney (in Rupees) did the philanthropist give away in total?<div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "1,50,000"
+            },
+            {
+                "index": "1",
+                "html": "2,00,000"
+            },
+            {
+                "index": "2",
+                "html": "1,75,000"
+            },
+            {
+                "index": "3",
+                "html": "1,51,000"
+            }
+        ],
+        "answer": "2,00,000",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.1.5926182570688512",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>Two straight lines are drawn perpendicular to each other in X-Y plane. If <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>α</mi><mtext> and </mtext><mi>β</mi></mrow><annotation encoding=\"application/x-tex\">\\alpha \\text{ and }\\beta </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0037em;\">α</span><span class=\"mord text\"><span class=\"mord\"> and </span></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0528em;\">β</span></span></span></span></span> are the acute angles the straight lines make with the X-axis, the <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>α</mi><mo>+</mo><mi>β</mi></mrow><annotation encoding=\"application/x-tex\">\\alpha + \\beta </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6667em; vertical-align: -0.0833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0037em;\">α</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0528em;\">β</span></span></span></span></span> is _______.<div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div> <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mn>60</mn><mo>∘</mo></msup></mrow><annotation encoding=\"application/x-tex\">60^∘\n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6741em;\"></span><span class=\"mord\">6</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6741em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">∘</span></span></span></span></span></span></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div> <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mn>90</mn><mo>∘</mo></msup></mrow><annotation encoding=\"application/x-tex\">90^∘\n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6741em;\"></span><span class=\"mord\">9</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6741em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">∘</span></span></span></span></span></span></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div> <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mn>120</mn><mo>∘</mo></msup></mrow><annotation encoding=\"application/x-tex\">120^∘\n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6741em;\"></span><span class=\"mord\">12</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6741em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">∘</span></span></span></span></span></span></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div> <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mn>180</mn><mo>∘</mo></msup></mrow><annotation encoding=\"application/x-tex\">180^∘\n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6741em;\"></span><span class=\"mord\">18</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6741em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">∘</span></span></span></span></span></span></span></span></span></span></span></span><div></div>"
+            }
+        ],
+        "answer": "<div>\n</div> <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mn>90</mn><mo>∘</mo></msup></mrow><annotation encoding=\"application/x-tex\">90^∘\n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6741em;\"></span><span class=\"mord\">9</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6741em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">∘</span></span></span></span></span></span></span></span></span></span></span></span><div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.2.5741529201115136",
+        "type": "MCQ",
+        "question_html": "Two cars start at the same time from the same location and go in the same direction. The\nspeed of the first car is 50 km/h and the speed of the second car is 60 km/h. The number of\nhours it takes for the distance between the two cars to be 20 km is ___.",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "1"
+            },
+            {
+                "index": "1",
+                "html": "2"
+            },
+            {
+                "index": "2",
+                "html": "3"
+            },
+            {
+                "index": "3",
+                "html": "6"
+            }
+        ],
+        "answer": "2",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.3.5310416288743424",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>Let r be a root of the equation 𝑥\n<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>𝑥</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/x-tex\"> x^{2} + 2𝑥 + 6 = 0</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8974em; vertical-align: -0.0833em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">2</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">6</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">0</span></span></span></span></span><br/>.\nThen the value of the expression (𝑟 + 2)(𝑟 + 3)(𝑟 + 4)(𝑟 + 5) is<div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "51"
+            },
+            {
+                "index": "1",
+                "html": "-51"
+            },
+            {
+                "index": "2",
+                "html": "126"
+            },
+            {
+                "index": "3",
+                "html": "-126"
+            }
+        ],
+        "answer": "-126",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.4.6562530184921088",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_GA_2017_Q06.jpg\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_GA_2017_Q06.jpg"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "B",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.5.6300082089492480",
+        "type": "MCQ",
+        "question_html": "Raman is confident of speaking English_______six months as he has been practising regularly______the last three weeks.",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "during, for"
+            },
+            {
+                "index": "1",
+                "html": "for, since"
+            },
+            {
+                "index": "2",
+                "html": "for, in"
+            },
+            {
+                "index": "3",
+                "html": "within, for"
+            }
+        ],
+        "answer": "within, for",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.6.5743096436359168",
+        "type": "MCQ",
+        "question_html": "If P = 3, R = 27, T = 243, then Q + S = ________.",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "40"
+            },
+            {
+                "index": "1",
+                "html": "80"
+            },
+            {
+                "index": "2",
+                "html": "90"
+            },
+            {
+                "index": "3",
+                "html": "110"
+            }
+        ],
+        "answer": "90",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.7.6277656924389376",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_GA_2017_Q10.jpg\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_GA_2017_Q10.jpg"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "C",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.8.5754637843955712",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_GA_2017_Q05.jpg\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_GA_2017_Q05.jpg"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "C",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.9.5632869883969536",
+        "type": "MCQ",
+        "question_html": "Given below are four statements.<br/><br/>\nStatement 1: All students are inquisitive.<br/>\nStatement 2: Some students are inquisitive.<br/>\nStatement 3: No student is inquisitive.<br/>\nStatement 4: Some students are not inquisitive.<br/><br/>\nFrom the given four statements, find the two statements that CANNOT BE\nTRUE simultaneously, assuming that there is at least one student in the class.",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "Statement 1 and Statement 3"
+            },
+            {
+                "index": "1",
+                "html": "Statement 1 and Statement 2"
+            },
+            {
+                "index": "2",
+                "html": "Statement 2 and Statement 4"
+            },
+            {
+                "index": "3",
+                "html": "Statement 3 and Statement 4"
+            }
+        ],
+        "answer": "Statement 1 and Statement 3",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.11.5683307698192384",
+        "type": "MCQ",
+        "question_html": "<div>Consider the following statements:</div><div>I. The smallest element in a max-heap is always at a leaf node</div><div>II. The second largest element in a max-heap is always a child of the root node</div><div>III. A max-heap can be constructed from a binary search tree in Θ(𝑛) time</div><div>IV. A binary search tree can be constructed from a max-heap in Θ(𝑛) time</div><div>Which of the above statements are TRUE?</div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "I, II and III"
+            },
+            {
+                "index": "1",
+                "html": "I, II and IV"
+            },
+            {
+                "index": "2",
+                "html": "I, III and IV"
+            },
+            {
+                "index": "3",
+                "html": "II, III and IV"
+            }
+        ],
+        "answer": "I, II and III",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.12.4838283754340352",
+        "type": "MCQ",
+        "question_html": "Consider the following recurrence: <br/>\nf(1)    = 1;<br/>\nf(2n)   = 2f(n) -1, for n&gt;=1;<br/>\nf(2n+1) = 2f(n) + 1, for n&gt;=1;<br/><br/>\nThen, which of the following statements is/are TRUE?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mn>2</mn><mi>n</mi></msup><mo>−</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mn>2</mn><mi>n</mi></msup><mo>−</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\"> f(2^{n}-1) = 2^{n}-1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7477em; vertical-align: -0.0833em;\"></span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">1</span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mn>2</mn><mi>n</mi></msup><mo stretchy=\"false\">)</mo><mo>=</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\"> f(2^{n}) = 1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">1</span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mn>5.2</mn><mi>n</mi></msup><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mn>2</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\"> f(5.2^{n}) = 2^{n+1}+1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"mopen\">(</span><span class=\"mord\">5.</span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8974em; vertical-align: -0.0833em;\"></span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">1</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">1</span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mn>2</mn><mi>n</mi></msup><mo>+</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mn>2</mn><mi>n</mi></msup><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\"> f(2^{n}+1) = 2^{n}+1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7477em; vertical-align: -0.0833em;\"></span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">1</span></span></span></span></span><div></div>"
+            }
+        ],
+        "answer": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mn>2</mn><mi>n</mi></msup><mo>−</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mn>2</mn><mi>n</mi></msup><mo>−</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\"> f(2^{n}-1) = 2^{n}-1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7477em; vertical-align: -0.0833em;\"></span><span class=\"mord\"><span class=\"mord\">2</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">1</span></span></span></span></span><div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.15.5201145005867008",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>Consider the following three functions. <br/>\n<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><msup><mn>10</mn><mi>n</mi></msup></mrow><annotation encoding=\"application/x-tex\"> f_{1} = 10^{n}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6644em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6644em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span></span></span></span></span></span></span></span></span> <br/>\n<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>2</mn></msub><mo>=</mo><msup><mi>n</mi><msub><mrow><mi>log</mi><mo>⁡</mo></mrow><mi>n</mi></msub></msup></mrow><annotation encoding=\"application/x-tex\"> f_{2} = n^{\\log_{n}}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8491em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">n</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8491em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mop mtight\"><span class=\"mop mtight\"><span class=\"mtight\">l</span><span class=\"mtight\">o</span><span class=\"mtight\" style=\"margin-right: 0.0139em;\">g</span></span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.0417em;\"><span class=\"\" style=\"top: -2.2341em; margin-right: 0.0714em;\"><span class=\"pstrut\" style=\"height: 2.5em;\"></span><span class=\"sizing reset-size3 size1 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">n</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2659em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span> <br/>\n<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>3</mn></msub><mo>=</mo><msup><mi>n</mi><msqrt><mi>n</mi></msqrt></msup></mrow><annotation encoding=\"application/x-tex\"> f_{3} = n^{\\sqrt{n}}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.9271em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">n</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9271em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord sqrt mtight\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8059em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mtight\" style=\"padding-left: 0.833em;\"><span class=\"mord mathnormal mtight\">n</span></span></span><span class=\"\" style=\"top: -2.7659em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail mtight\" style=\"min-width: 0.853em; height: 1.08em;\"><svg height=\"1.08em\" preserveaspectratio=\"xMinYMin slice\" viewbox=\"0 0 400000 1080\" width=\"400em\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2341em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span> <br/>\n<br/> Which one of the following options arranges the functions in the increasing order of asymptotic growth rate?<div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>3</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>2</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\"> f_{3}, f_{2}, f_{1} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>2</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>1</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\"> f_{2}, f_{1}, f_{3} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>1</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>2</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\"> f_{1}, f_{2}, f_{3} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>2</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>3</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\"> f_{2}, f_{3}, f_{1} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span><div></div>"
+            }
+        ],
+        "answer": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>f</mi><mn>1</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>2</mn></msub><mo separator=\"true\">,</mo><msub><mi>f</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\"> f_{1}, f_{2}, f_{3} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8889em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1076em;\">f</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1076em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span><div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.17.5746446779285504",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>Consider three registers R1, R2, and R3 that store numbers in IEEE-754 single precision floating point format, Assume that R1, and R2 contain the values (in hexadecimal notation) 0x42200000 and 0xC1200000, respectively.<br/><br/>\n\nIf <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>R</mi><mn>3</mn><mo>=</mo><mfrac><mrow><mi>R</mi><mn>1</mn></mrow><mrow><mi>R</mi><mn>2</mn></mrow></mfrac><mo separator=\"true\">,</mo></mrow><annotation encoding=\"application/x-tex\">R3=\\frac{R1}{R2},</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0077em;\">R</span><span class=\"mord\">3</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.2173em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8723em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0077em;\">R</span><span class=\"mord mtight\">2</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0077em;\">R</span><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mpunct\">,</span></span></span></span></span> what is the value stored in R3 ?<div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "0x40800000"
+            },
+            {
+                "index": "1",
+                "html": "0xC0800000"
+            },
+            {
+                "index": "2",
+                "html": "0x83400000"
+            },
+            {
+                "index": "3",
+                "html": "0xC8500000"
+            }
+        ],
+        "answer": "0xC0800000",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.20.6212669396746240",
+        "type": "MCQ",
+        "question_html": "A certain processor uses a fully associative cache of size 16 kB. The cache block size is 16 bytes. Assume that the main memory is byte addressable and uses a 32-bit address. How many bits are required for the Tag and the Index fields respectively in the addresses generated by the processor?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "24 bits and 0 bits"
+            },
+            {
+                "index": "1",
+                "html": "28 bits and 4 bits"
+            },
+            {
+                "index": "2",
+                "html": "24 bits and 4 bits"
+            },
+            {
+                "index": "3",
+                "html": "28 bits and 0 bits"
+            }
+        ],
+        "answer": "28 bits and 0 bits",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.24.5961080320819200",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q03.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q03.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi mathvariant=\"normal\">Θ</mi></mrow><annotation encoding=\"application/x-tex\"> \\Theta </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord\">Θ</span></span></span></span></span>(1)<div></div>"
+            },
+            {
+                "index": "1",
+                "html": "Lexical analyzer"
+            },
+            {
+                "index": "2",
+                "html": "Syntax analyzer"
+            },
+            {
+                "index": "3",
+                "html": "Machine dependent optimizer"
+            }
+        ],
+        "answer": "Syntax analyzer",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.25.4666262235906048",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q31.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q31.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "A",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.29.5964623895330816",
+        "type": "MCQ",
+        "question_html": "Consider an enterprise network with two Ethernet segments, a web server and a\nfirewall, connected via three routers as shown below<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_12.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_12.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "3"
+            },
+            {
+                "index": "1",
+                "html": "12"
+            },
+            {
+                "index": "2",
+                "html": "6"
+            },
+            {
+                "index": "3",
+                "html": "8"
+            }
+        ],
+        "answer": "6",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.30.5090962896322560",
+        "type": "MCQ",
+        "question_html": "Consider a schedule of transactions T1 and T2 :<br/><img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37.png\" style=\"width: 300px;\" title=\"\"/><br/>\nHere, RX stands for \"Read(X)\" and WX stands for \"Write(X)\". Which one of the following schedules is conflict equivalent to the above schedule ?",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37.png"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "<img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37_A.png\" style=\"width: 300px;\" title=\"\"/>"
+            },
+            {
+                "index": "1",
+                "html": "<img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37_B.png\" style=\"width: 300px;\" title=\"\"/>"
+            },
+            {
+                "index": "2",
+                "html": "<img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37_C.png\" style=\"width: 300px;\" title=\"\"/>"
+            },
+            {
+                "index": "3",
+                "html": "<img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37_D.png\" style=\"width: 300px;\" title=\"\"/>"
+            }
+        ],
+        "answer": "<img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_37_A.png\" style=\"width: 300px;\" title=\"\"/>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.31.4882735902490624",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q32.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q32.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is conflict serializable, and <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is not conflict serializable.<div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is not conflict serializable, and <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is conflict serializable.<div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div>Both <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> and <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> are conflict serializable.<div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div>Neither <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> nor <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is conflict serializable.<div></div>"
+            }
+        ],
+        "answer": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is not conflict serializable, and <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>S</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">S_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0576em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> is conflict serializable.<div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.33.5979677084614656",
+        "type": "MCQ",
+        "question_html": "Consider a relational database containing the following schemas.<br/><img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_13_1.png\" style=\"width: 250px;\" title=\"\"/><br/>The primary key of each table is indicated by underlining the constituent fields.<br/><img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_13_2.png\" style=\"width: 300px;\" title=\"\"/><br/>\nThe number of rows returned by the above SQL query is",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_13_1.png",
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_13_2.png"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "4"
+            },
+            {
+                "index": "1",
+                "html": "5"
+            },
+            {
+                "index": "2",
+                "html": "0"
+            },
+            {
+                "index": "3",
+                "html": "2"
+            }
+        ],
+        "answer": "4",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.34.5103086448148480",
+        "type": "MCQ",
+        "question_html": "Consider the following statements Sl and S2 about the relational data model: <br/>\nS1: A relation scheme can have at most one foreign key. <br/>\nS2: A foreign key in a relation scheme R cannot be used to refer to tuples of R. <br/>\nWhich one of the following choices is correct?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "Both Sl and S2 are true."
+            },
+            {
+                "index": "1",
+                "html": "S1 is true and S2 is false."
+            },
+            {
+                "index": "2",
+                "html": "S1 is false and S2 is true."
+            },
+            {
+                "index": "3",
+                "html": "Both Sl and S2 are false."
+            }
+        ],
+        "answer": "Both Sl and S2 are false.",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.35.6741360140877824",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_15.png\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_15.png"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "A",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.36.5653912849743872",
+        "type": "MCQ",
+        "question_html": "Consider the Boolean function z (a, b, c).<br/><img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_28.png\" style=\"width: 300px;\" title=\"\"/><br/>\nWhich one of the following minterm lists represents the circuit given above ?",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_28.png"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>z</mi><mo>=</mo><mo>∑</mo><mo stretchy=\"false\">(</mo><mn>0</mn><mo separator=\"true\">,</mo><mn>1</mn><mo separator=\"true\">,</mo><mn>3</mn><mo separator=\"true\">,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">z=∑(0,1,3,7) \n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.044em;\">z</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mop op-symbol small-op\" style=\"position: relative; top: 0em;\">∑</span><span class=\"mopen\">(</span><span class=\"mord\">0</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">1</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">3</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">7</span><span class=\"mclose\">)</span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>z</mi><mo>=</mo><mo>∑</mo><mo stretchy=\"false\">(</mo><mn>1</mn><mo separator=\"true\">,</mo><mn>4</mn><mo separator=\"true\">,</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>6</mn><mo separator=\"true\">,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">z=∑(1,4,5,6,7) \n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.044em;\">z</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mop op-symbol small-op\" style=\"position: relative; top: 0em;\">∑</span><span class=\"mopen\">(</span><span class=\"mord\">1</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">4</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">6</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">7</span><span class=\"mclose\">)</span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>z</mi><mo>=</mo><mo>∑</mo><mo stretchy=\"false\">(</mo><mn>2</mn><mo separator=\"true\">,</mo><mn>4</mn><mo separator=\"true\">,</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>6</mn><mo separator=\"true\">,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">z=∑(2,4,5,6,7)</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.044em;\">z</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mop op-symbol small-op\" style=\"position: relative; top: 0em;\">∑</span><span class=\"mopen\">(</span><span class=\"mord\">2</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">4</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">6</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">7</span><span class=\"mclose\">)</span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>z</mi><mo>=</mo><mo>∑</mo><mo stretchy=\"false\">(</mo><mn>2</mn><mo separator=\"true\">,</mo><mn>3</mn><mo separator=\"true\">,</mo><mn>5</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">z=∑(2,3,5)</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.044em;\">z</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mop op-symbol small-op\" style=\"position: relative; top: 0em;\">∑</span><span class=\"mopen\">(</span><span class=\"mord\">2</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">3</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">5</span><span class=\"mclose\">)</span></span></span></span></span><div></div>"
+            }
+        ],
+        "answer": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>z</mi><mo>=</mo><mo>∑</mo><mo stretchy=\"false\">(</mo><mn>1</mn><mo separator=\"true\">,</mo><mn>4</mn><mo separator=\"true\">,</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>6</mn><mo separator=\"true\">,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">z=∑(1,4,5,6,7) \n</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.044em;\">z</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mop op-symbol small-op\" style=\"position: relative; top: 0em;\">∑</span><span class=\"mopen\">(</span><span class=\"mord\">1</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">4</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">6</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">7</span><span class=\"mclose\">)</span></span></span></span></span><div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.37.5611579638808576",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q06.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q06.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "B",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.38.5179279167979520",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q30.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q30.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "Σ(7, 8, 11)"
+            },
+            {
+                "index": "1",
+                "html": "Σ(2, 7, 8, 11, 14)"
+            },
+            {
+                "index": "2",
+                "html": "Σ(2, 14)"
+            },
+            {
+                "index": "3",
+                "html": "Σ(0, 2, 3, 5, 6, 7, 8, 11, 14, 15)"
+            }
+        ],
+        "answer": "Σ(7, 8, 11)",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.40.5677245058252800",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_43.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_43.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "1 2 3<br/>\n10 11 12<br/>\n19 20 21<br/>"
+            },
+            {
+                "index": "1",
+                "html": "1 4 7<br/>\n10 13 16<br/>\n19 22 25<br/>"
+            },
+            {
+                "index": "2",
+                "html": "1 2 3<br/>\n4 5 6<br/>\n7 8 9 <br/>"
+            },
+            {
+                "index": "3",
+                "html": "1 2 3<br/> \n13 14 15<br/>\n25 26 27<br/>"
+            }
+        ],
+        "answer": "1 2 3<br/>\n10 11 12<br/>\n19 20 21<br/>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.43.4515789826686976",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q03.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q03.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "θ(1), θ(1)"
+            },
+            {
+                "index": "1",
+                "html": "θ(1), θ(n)"
+            },
+            {
+                "index": "2",
+                "html": "θ(n), θ(1)"
+            },
+            {
+                "index": "3",
+                "html": "θ(n), θ(n)"
+            }
+        ],
+        "answer": "θ(1), θ(n)",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.44.5709740445270016",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q27.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q27.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "41"
+            },
+            {
+                "index": "1",
+                "html": "52"
+            },
+            {
+                "index": "2",
+                "html": "63"
+            },
+            {
+                "index": "3",
+                "html": "630"
+            }
+        ],
+        "answer": "52",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.45.5111306747117568",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>Compute <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mn>3</mn></mrow></msub><mfrac><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>81</mn></mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mfrac></mrow><annotation encoding=\"application/x-tex\"> \\lim_{x \\to 3} \\frac{x^{4}-81}{2x^{2}-5x-3}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.4213em; vertical-align: -0.4033em;\"></span><span class=\"mop\"><span class=\"mop\">lim</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">x</span><span class=\"mrel mtight\">→</span><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.0179em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.7463em;\"><span class=\"\" style=\"top: -2.786em; margin-right: 0.0714em;\"><span class=\"pstrut\" style=\"height: 2.5em;\"></span><span class=\"sizing reset-size3 size1 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mbin mtight\">−</span><span class=\"mord mtight\">5</span><span class=\"mord mathnormal mtight\">x</span><span class=\"mbin mtight\">−</span><span class=\"mord mtight\">3</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8913em;\"><span class=\"\" style=\"top: -2.931em; margin-right: 0.0714em;\"><span class=\"pstrut\" style=\"height: 2.5em;\"></span><span class=\"sizing reset-size3 size1 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">4</span></span></span></span></span></span></span></span></span><span class=\"mbin mtight\">−</span><span class=\"mord mtight\">81</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span><div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "1"
+            },
+            {
+                "index": "1",
+                "html": "53/12"
+            },
+            {
+                "index": "2",
+                "html": "108/7"
+            },
+            {
+                "index": "3",
+                "html": "Limit does not exist"
+            }
+        ],
+        "answer": "108/7",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.46.5827876205101056",
+        "type": "MCQ",
+        "question_html": "Let G be a group of order 6, and H be a subgroup of G such that 1 &lt; |H| &lt; 6.\nWhich one of the following options is correct?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "Both G and H are always cyclic."
+            },
+            {
+                "index": "1",
+                "html": "G may not be cyclic, but H is always cyclic."
+            },
+            {
+                "index": "2",
+                "html": "G is always cyclic, but H may not be cyclic."
+            },
+            {
+                "index": "3",
+                "html": "Both G and H may not be cyclic."
+            }
+        ],
+        "answer": "G may not be cyclic, but H is always cyclic.",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.47.5760831765610496",
+        "type": "MCQ",
+        "question_html": "<div>L et N be the set of natural numbers. Consider the following sets.</div><div>P: Set of Rational numbers (positive and negative)</div><div>Q: Set of functions from {0, 1} to N</div><div>R: Set of functions from N to {0, 1}</div><div>S: Set of finite subsets of N.</div><div>Which of the sets above are countable?</div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "Q and S only"
+            },
+            {
+                "index": "1",
+                "html": "P and S only"
+            },
+            {
+                "index": "2",
+                "html": "P and R only"
+            },
+            {
+                "index": "3",
+                "html": "P, Q and S only"
+            }
+        ],
+        "answer": "P, Q and S only",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.48.4816447779897344",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q05.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q05.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "Only I"
+            },
+            {
+                "index": "1",
+                "html": "Only II"
+            },
+            {
+                "index": "2",
+                "html": "Both I and II"
+            },
+            {
+                "index": "3",
+                "html": "Neither I nor II"
+            }
+        ],
+        "answer": "Both I and II",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.49.6441782816538624",
+        "type": "MCQ",
+        "question_html": "Which of the following statements is/are TRUE for a group G ?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div>If for all x,y <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding=\"application/x-tex\"> \\epsilon</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">ϵ</span></span></span></span></span> G , <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mi>y</mi><msup><mo stretchy=\"false\">)</mo><mn>2</mn></msup><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\"> (xy)^{2} = x^{2}y^{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0641em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">y</span><span class=\"mclose\"><span class=\"mclose\">)</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0085em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">y</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span></span>, then G is commutative.\n<div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div>If for all x <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding=\"application/x-tex\"> \\epsilon</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">ϵ</span></span></span></span></span> G , <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\"> x^{2} = 1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">1</span></span></span></span></span> then G is commutative.Here, 1 is the identity element ofG<div></div>"
+            },
+            {
+                "index": "2",
+                "html": "If the order of G is 2, then G is commutative."
+            },
+            {
+                "index": "3",
+                "html": "If G is commutative, then a subgroup of G need not be commutative"
+            }
+        ],
+        "answer": "<div>\n</div>If for all x,y <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding=\"application/x-tex\"> \\epsilon</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">ϵ</span></span></span></span></span> G , <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mi>y</mi><msup><mo stretchy=\"false\">)</mo><mn>2</mn></msup><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\"> (xy)^{2} = x^{2}y^{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0641em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">y</span><span class=\"mclose\"><span class=\"mclose\">)</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0085em; vertical-align: -0.1944em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">y</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span></span>, then G is commutative.\n<div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.50.6236653030998016",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q37.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q37.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "9"
+            },
+            {
+                "index": "1",
+                "html": "10"
+            },
+            {
+                "index": "2",
+                "html": "11"
+            },
+            {
+                "index": "3",
+                "html": "100"
+            }
+        ],
+        "answer": "10",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.51.4805294513192960",
+        "type": "MCQ",
+        "question_html": "<div>Let 𝑋 be a square matrix. Consider the following two statements on 𝑋.</div><div>I. 𝑋 is invertible.</div><div>II. Determinant of 𝑋 is non-zero.</div><div>Which one of the following is TRUE?</div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "I implies II; II does not imply I."
+            },
+            {
+                "index": "1",
+                "html": "II implies I; I does not imply II."
+            },
+            {
+                "index": "2",
+                "html": "I does not imply II; II does not imply I."
+            },
+            {
+                "index": "3",
+                "html": "I and II are equivalent statements."
+            }
+        ],
+        "answer": "I and II are equivalent statements.",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.52.5330104662097920",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q28.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q28.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "There exists at least one model of 𝜑 with universe of size less than or equal to 3."
+            },
+            {
+                "index": "1",
+                "html": "There exists no model of 𝜑 with universe of size less than or equal to 3."
+            },
+            {
+                "index": "2",
+                "html": "There exists no model of 𝜑 with universe of size greater than 7."
+            },
+            {
+                "index": "3",
+                "html": "Every model of 𝜑 has a universe of size equal to 7."
+            }
+        ],
+        "answer": "There exists at least one model of 𝜑 with universe of size less than or equal to 3.",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.54.4732413590634496",
+        "type": "MCQ",
+        "question_html": "A bag has r red balls and b black balls. All baJJs are identical except for their\ncolours. In a trial, a baJJ is randomly drawn from the bag. its colow- is noted and\nthe ball is placed back into the bag along with another ball of the same colour.\nNote that the number of balls in the bag will increase by one, after the trial. A\nsequence of four such trials is conducted. Which one of the following choices gives\nthe probability of drawing a red ball in the fourth trial?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mi>r</mi><mrow><mi>r</mi><mo>+</mo><mi>b</mi></mrow></mfrac></mrow><annotation encoding=\"application/x-tex\"> \\frac{r}{r+b}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0987em; vertical-align: -0.4033em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6954em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mi>r</mi><mrow><mi>r</mi><mo>+</mo><mi>b</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow><annotation encoding=\"application/x-tex\"> \\frac{r}{r+b+3}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0987em; vertical-align: -0.4033em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6954em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">3</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mrow><mi>r</mi><mo>+</mo><mn>3</mn></mrow><mrow><mi>r</mi><mo>+</mo><mi>b</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow><annotation encoding=\"application/x-tex\"> \\frac{r+3}{r+b+3}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.2484em; vertical-align: -0.4033em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">3</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo stretchy=\"false\">(</mo><mfrac><mi>r</mi><mrow><mi>r</mi><mo>+</mo><mi>b</mi></mrow></mfrac><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mfrac><mrow><mi>r</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>r</mi><mo>+</mo><mi>b</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mfrac><mrow><mi>r</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi>r</mi><mo>+</mo><mi>b</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mfrac><mrow><mi>r</mi><mo>+</mo><mn>3</mn></mrow><mrow><mi>r</mi><mo>+</mo><mi>b</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\"> (\\frac{r}{r+b}) (\\frac{r+1}{r+b+1}) (\\frac{r+2}{r+b+2}) (\\frac{r+3}{r+b+3})</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.2484em; vertical-align: -0.4033em;\"></span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6954em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose\">)</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">1</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose\">)</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">2</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose\">)</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">3</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose\">)</span></span></span></span></span><div></div>"
+            }
+        ],
+        "answer": "<div>\n</div><span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mfrac><mi>r</mi><mrow><mi>r</mi><mo>+</mo><mi>b</mi></mrow></mfrac></mrow><annotation encoding=\"application/x-tex\"> \\frac{r}{r+b}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0987em; vertical-align: -0.4033em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6954em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span><span class=\"mbin mtight\">+</span><span class=\"mord mathnormal mtight\">b</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0278em;\">r</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4033em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span><div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.55.4767154708676608",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q42.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q42.PNG"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "Both P l and P2 will print the value of x as 2."
+            },
+            {
+                "index": "1",
+                "html": "At least one of P l and P2 will print the value of x as 4."
+            },
+            {
+                "index": "2",
+                "html": "At least one of the threads will print the value of y as 2."
+            },
+            {
+                "index": "3",
+                "html": "Both Tl and T2, in both the processes, will print the value of y as 1."
+            }
+        ],
+        "answer": "Both P l and P2 will print the value of x as 2.",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.57.4694950092472320",
+        "type": "MCQ",
+        "question_html": "<div>\n</div>Consider a linear list based directory implementation in a file system. Each directory is a list of nodes. where each node contains the file name along with the file metadata. such as the list of pointers to the data blocks. Consider a given directory <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span>.\nWhich of the following operations will necessarily require a full scan of <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span> for successful completion?<div></div>",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "<div>\n</div>Creation of a new file in <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "1",
+                "html": "<div>\n</div>Deletion of an existing file from <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "2",
+                "html": "<div>\n</div>Renaming of an existing file from <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span><div></div>"
+            },
+            {
+                "index": "3",
+                "html": "<div>\n</div>Opening of an existing file in <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span><div></div>"
+            }
+        ],
+        "answer": "<div>\n</div>Creation of a new file in <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mtext mathvariant=\"monospace\">foo</mtext></mrow><annotation encoding=\"application/x-tex\"> \\texttt{foo} </annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6111em;\"></span><span class=\"mord text\"><span class=\"mord texttt\">foo</span></span></span></span></span></span><div></div>",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.60.4722927509438464",
+        "type": "MCQ",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q41.png\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q41.png"
+        ],
+        "options": [
+            {
+                "index": "0",
+                "html": "A"
+            },
+            {
+                "index": "1",
+                "html": "B"
+            },
+            {
+                "index": "2",
+                "html": "C"
+            },
+            {
+                "index": "3",
+                "html": "D"
+            }
+        ],
+        "answer": "B",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.63.5039074750496768",
+        "type": "MCQ",
+        "question_html": "Which one of the following statements is TRUE?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "The LALR(1) parser for a grammar G cannot have reduce-reduce conflict if the\nLR(1) parser for G does not have reduce-reduce conflict."
+            },
+            {
+                "index": "1",
+                "html": "Symbol table is accessed only during the lexical analysis phase"
+            },
+            {
+                "index": "2",
+                "html": "Data flow analysis is necessary for run-time memory management"
+            },
+            {
+                "index": "3",
+                "html": "LR(1) parsing is sufficient for deterministic context-free languages"
+            }
+        ],
+        "answer": "LR(1) parsing is sufficient for deterministic context-free languages",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.64.5858313497477120",
+        "type": "MCQ",
+        "question_html": "Consider the following two statements about regular languages: <br/>\nS1 : Every infinite regular language contains an undecidable language as a subset. <br/>\nS2: Every finite language is regular. <br/>\nWhich one of the following choices is correct?",
+        "question_images": [],
+        "options": [
+            {
+                "index": "0",
+                "html": "Only S1 is true."
+            },
+            {
+                "index": "1",
+                "html": "Only S2 is true."
+            },
+            {
+                "index": "2",
+                "html": "Both S1 and S2 are true."
+            },
+            {
+                "index": "3",
+                "html": "Neither S1 and S2 is true."
+            }
+        ],
+        "answer": "Neither S1 and S2 is true.",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.10.6214374607814656",
+        "type": "SA",
+        "question_html": "<div>\n</div>Consider a graph <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>G</mi><mo>=</mo><mo stretchy=\"false\">(</mo><mi>V</mi><mo separator=\"true\">,</mo><mi>E</mi><mo stretchy=\"false\">)</mo><mo separator=\"true\">,</mo><mtext> where </mtext><mi>V</mi><mo>=</mo><mo stretchy=\"false\">{</mo><msub><mi>v</mi><mn>1</mn></msub><mo separator=\"true\">,</mo><msub><mi>v</mi><mn>2</mn></msub><mo separator=\"true\">,</mo><mi mathvariant=\"normal\">.</mi><mi mathvariant=\"normal\">.</mi><mi mathvariant=\"normal\">.</mi><mo separator=\"true\">,</mo><msub><mi>v</mi><mn>100</mn></msub><mo stretchy=\"false\">}</mo><mo separator=\"true\">,</mo><mi>E</mi><mo>=</mo><mo stretchy=\"false\">{</mo><mo stretchy=\"false\">(</mo><msub><mi>v</mi><mi>i</mi></msub><mo separator=\"true\">,</mo><msub><mi>v</mi><mi>j</mi></msub><mo stretchy=\"false\">)</mo><mi mathvariant=\"normal\">∣</mi><mn>1</mn><mo>≤</mo><mi>i</mi><mo>≤</mo><mi>j</mi><mo>≤</mo><mn>100</mn><mo stretchy=\"false\">}</mo><mo separator=\"true\">,</mo></mrow><annotation encoding=\"application/x-tex\">G=(V,E),\\text{ where }V=\\{v_1,v_2,...,v_{100}\\},E=\\{(v_i,v_j)|1≤i≤j≤100\\},</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\">G</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\" style=\"margin-right: 0.2222em;\">V</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">E</span><span class=\"mclose\">)</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord text\"><span class=\"mord\"> where </span></span><span class=\"mord mathnormal\" style=\"margin-right: 0.2222em;\">V</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">{</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">...</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">100</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mclose\">}</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">E</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0361em; vertical-align: -0.2861em;\"></span><span class=\"mopen\">{(</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3117em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\">i</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3117em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0572em;\">j</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2861em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mord\">∣1</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">≤</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7955em; vertical-align: -0.136em;\"></span><span class=\"mord mathnormal\">i</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">≤</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.854em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0572em;\">j</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">≤</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">100</span><span class=\"mclose\">}</span><span class=\"mpunct\">,</span></span></span></span></span> and weight of the edge <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo stretchy=\"false\">(</mo><msub><mi>v</mi><mi>i</mi></msub><mo separator=\"true\">,</mo><msub><mi>v</mi><mi>j</mi></msub><mo stretchy=\"false\">)</mo><mtext> is </mtext><mi mathvariant=\"normal\">∣</mi><mi>i</mi><mo>−</mo><mi>j</mi><mi mathvariant=\"normal\">∣</mi><mi mathvariant=\"normal\">.</mi></mrow><annotation encoding=\"application/x-tex\">(v_i,v_j)\\text{ is }|i−j|.</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.0361em; vertical-align: -0.2861em;\"></span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3117em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\">i</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">v</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3117em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0359em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0572em;\">j</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2861em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mord text\"><span class=\"mord\"> is </span></span><span class=\"mord\">∣</span><span class=\"mord mathnormal\">i</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0572em;\">j</span><span class=\"mord\">∣.</span></span></span></span></span> The weight of minimum spanning tree of G is __________.<div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 99",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.13.5019296627425280",
+        "type": "SA",
+        "question_html": "Consider the following undirected graph with edge weights as shown:\n<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q17.PNG\"/>\nThe number of minimum-weight spanning trees of the graph is ______",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q17.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 3",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.14.6293993436479488",
+        "type": "SA",
+        "question_html": "Consider a complete binary tree with 7 nodes. Let A denote the set of first 3\nelements obtained by performing Breadth-First Search (BFS) starting from the\nroot. Let B denote the set of first 3 elements obtained by performing Depth-First\nSearch (DFS) starting from the root.\nThe value of |A - B|is ______",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 1",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.16.5092592727359488",
+        "type": "SA",
+        "question_html": "<div>\n</div>A processor <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>X</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\"> X_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0785em;\">X</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0785em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> operating at 2 GHz has a standard 5-stage RISC instruction pipeline\nhaving a base CPI (cycles per instruction) of one without any pipeline hazards.\nFor a given program P that has 30% branch instructions, control hazards incur 2\ncycles stall for every branch. A new version of the processor <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>X</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\"> X_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0785em;\">X</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0785em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> operating at same\nclock frequency has an additional branch predictor unit (BPU) that completely\neliminates stalls for correctly predicted branches. There is neither any savings nor\nany additional stalls for wrong predictions. There are no structural hazards and data\nhazards for <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>X</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\"> X_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0785em;\">X</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0785em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> and <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>X</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\"> X_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0785em;\">X</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0785em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>. If the BPU has a prediction accuracy of 80%, the speed up\n(rounded off to two decimal places) obtained by <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>X</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\"> X_{2}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0785em;\">X</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0785em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> over <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>X</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\"> X_{1}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0785em;\">X</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.0785em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> in executing\nP is____________. <div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Range) 1.42, 1.45",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.18.6555083248500736",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q55.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_Q55.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 50",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.19.6001087337201664",
+        "type": "SA",
+        "question_html": "A cache memory that has a hit rate of 0.8 has an access latency 10 ns and miss\npenalty 100 ns. An optimization is done on the cache to reduce the miss rate.\nHowever, the optimization results in an increase of cache access latency to 15 ns,\nwhereas the miss penalty is not affected. The minimum hit rate (rounded off to two\ndecimal places) needed after the optimization such that it should not increase the\naverage memory access time is _____________.",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 0.85",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.21.5405165347667968",
+        "type": "SA",
+        "question_html": "Consider tbe following representation of a nwnber in IEEE 754 single-precision\nfloating point format with a bias of 127.<br/><span style='font-family: \"Courier New\";'><span style=\"white-space:pre\"> </span>S: 1<span style=\"white-space:pre\"> </span>E : 10000001<span style=\"white-space:pre\"> </span>F: 11110000000000000000000<br/></span><div>Here S. E and F denote the sign , exponent and fraction components of the floating</div><div>point representation.<br/><div>The decimal value corresponding to the above representation (rounded to 2 decimaJ</div><div>places) is ______</div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) -7.75",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.22.6547181649526784",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_55'.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_55'.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 80",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.23.5146869344763904",
+        "type": "SA",
+        "question_html": "Consider the following grammer.<br/>\n\nS → aSB | d<br/>\n\nB → b<br/>\n\nThe number of reduction steps taken by a bottom-up parser while accepting the string aaadbbb is ________.",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 7",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.26.6285152875446272",
+        "type": "SA",
+        "question_html": "In an RSA cryptosystem, the value of the public modulus parameter 𝑛 is 3007. If it is also known that φ(𝑛) = 2880, where φ() denotes Euler’s Totient Function, then the prime factor of 𝑛 which is greater than 50 is ____________________.",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 97",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.27.6207103119130624",
+        "type": "SA",
+        "question_html": "<div>\n</div>Consider a network using the pure ALOHA medium access control protocol, where\neach frame is of length 1,000 bits. The channel transmission rate is 1 Mbps ( = 10<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mn>6</mn></msup></mrow><annotation encoding=\"application/x-tex\">^{6}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">6</span></span></span></span></span></span></span></span></span></span></span></span></span> bits per second). The aggregate number of transmissions across all the nodes {including\nnew frame transmissions and retransmitted frames due to collisions) is\nmodelled as a Poisson process with a rate of 1,000 frames per second. Throughput\nis defined as the average number of frames successfully transmitted per second. The\nthroughput of the network {rounded to the nearest integer) is ______<div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Range) 130, 140",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.28.6306046389780480",
+        "type": "SA",
+        "question_html": "Assume that you have made a request for a web page through your web browser to a web server. Initially the browser cache is empty. Further, the browser is configured to send HTTP requests in non-persistent mode. The web page contains text and five very small images. The minimum number of TCP conncetions required to display the web page completely in your browser is __________.",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 6",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.32.5726438833520640",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_56.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2022_CS_56.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 2",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.39.5305165355679744",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q45.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q45.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 10230",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.41.6004608405078016",
+        "type": "SA",
+        "question_html": "Consider the following C functions.<br/><img alt=\"\" class=\"yui-img\" src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_46.png\" style=\"width: 200px;\" title=\"\"/><br/>\nThe return value of fun2 (5) is ________.",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/Gate_2020_CS_46.png"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 55",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.42.4763033108742144",
+        "type": "SA",
+        "question_html": "<div>\n</div>Consider a double hashing scheme in which the primary hash function is h<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mrow></mrow><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">_1</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4511em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> (k) = k mod 23, and the secondary hash function is h<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mrow></mrow><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">_2</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4511em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span> (k) = 1 + (k mod 19). Assume that the table size is 23. Then the address returned by probe 1 in the probe sequence (assume that the probe sequence begins at probe 0) for key value k = 90 is _________.<div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 13",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.53.6305116957179904",
+        "type": "SA",
+        "question_html": "<div>\n</div>The value of the following limit is _____________. <br/>\n<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn><mo>+</mo></mrow></msub><mfrac><msqrt><mi>x</mi></msqrt><mrow><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mn>2</mn><msqrt><mi>x</mi></msqrt></mrow></msup></mrow></mfrac></mrow><annotation encoding=\"application/x-tex\"> \\lim_{x \\rightarrow 0+} \\frac{\\sqrt{x}}{1-e^{2\\sqrt{x}}}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.5095em; vertical-align: -0.4715em;\"></span><span class=\"mop\"><span class=\"mop\">lim</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">x</span><span class=\"mrel mtight\">→</span><span class=\"mord mtight\">0</span><span class=\"mord mtight\">+</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2083em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.038em;\"><span class=\"\" style=\"top: -2.5868em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span><span class=\"mbin mtight\">−</span><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">e</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8616em;\"><span class=\"\" style=\"top: -2.8616em; margin-right: 0.0714em;\"><span class=\"pstrut\" style=\"height: 2.5756em;\"></span><span class=\"sizing reset-size3 size1 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span><span class=\"mord sqrt mtight\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8059em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mtight\" style=\"padding-left: 0.833em;\"><span class=\"mord mathnormal mtight\">x</span></span></span><span class=\"\" style=\"top: -2.7659em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail mtight\" style=\"min-width: 0.853em; height: 1.08em;\"><svg height=\"1.08em\" preserveaspectratio=\"xMinYMin slice\" viewbox=\"0 0 400000 1080\" width=\"400em\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2341em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.4739em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord sqrt mtight\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8059em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mtight\" style=\"padding-left: 0.833em;\"><span class=\"mord mathnormal mtight\">x</span></span></span><span class=\"\" style=\"top: -2.7659em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail mtight\" style=\"min-width: 0.853em; height: 1.08em;\"><svg height=\"1.08em\" preserveaspectratio=\"xMinYMin slice\" viewbox=\"0 0 400000 1080\" width=\"400em\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2341em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.4715em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span><div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) -0.5",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.56.6710838467493888",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q53.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q53.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 85",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.58.4832852365541376",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q23.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2019_Q23.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 80",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.59.5649719443324928",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q52.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_CS_2018_Q52.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 2",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.61.4914743164796928",
+        "type": "SA",
+        "question_html": "<div>\n</div>Consider the following language.<br/>\n<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>L</mi><mo>=</mo><mo stretchy=\"false\">{</mo><mi>x</mi><mo>∈</mo><mo stretchy=\"false\">{</mo><mi>a</mi><mo separator=\"true\">,</mo><mi>b</mi><mo stretchy=\"false\">}</mo><mo>∗</mo><mi mathvariant=\"normal\">∣</mi></mrow><annotation encoding=\"application/x-tex\">L=\\{x∈\\{a,b\\}∗|</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\">L</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">{</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">∈</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">{</span><span class=\"mord mathnormal\">a</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord mathnormal\">b</span><span class=\"mclose\">}</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">∗</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">∣</span></span></span></span></span> number of a' s in x is divisible by 2 but not divisible by 3 }<br/>\n\nThe minimum number of states in a DFA that accepts <span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>L</mi></mrow><annotation encoding=\"application/x-tex\">L</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\">L</span></span></span></span></span> is __________.<div></div>",
+        "question_images": [],
+        "options": [],
+        "answer": "(Type: Numeric) 6",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
+        "id": "OE3aFVLmDZFF.62.5357896724381696",
+        "type": "SA",
+        "question_html": "<img src=\"./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q17.PNG\"/>",
+        "question_images": [
+            "./Mock Test - 01.02.2026 __ IITM Online Degree_files/GATE_2021_CS_2021_S2_Q17.PNG"
+        ],
+        "options": [],
+        "answer": "(Type: Numeric) 256",
+        "source_file": "Mock Test - 01.02.2026 __ IITM Online Degree.html"
+    },
+    {
         "id": "8um6NogbzGjZ.0.5549488169025536",
         "type": "MCQ",
         "question_html": "<div>\n</div>If 𝑝𝑞𝑟 ≠ 0 and 𝑝<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mrow><mo>−</mo><mi>𝑥</mi></mrow></msup></mrow><annotation encoding=\"application/x-tex\">^{−𝑥}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7713em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.7713em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">−</span><span class=\"mord mathnormal mtight\">x</span></span></span></span></span></span></span></span></span></span></span></span></span> =1/𝑞, 𝑞<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mrow><mo>−</mo><mi>y</mi></mrow></msup></mrow><annotation encoding=\"application/x-tex\">^{−y}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7713em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.7713em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">−</span><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0359em;\">y</span></span></span></span></span></span></span></span></span></span></span></span></span> =1/𝑟, 𝑟<span class=\"inline-equation\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mrow><mo>−</mo><mi>z</mi></mrow></msup></mrow><annotation encoding=\"application/x-tex\">^{−z}</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7713em;\"></span><span class=\"mord\"><span class=\"\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.7713em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">−</span><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.044em;\">z</span></span></span></span></span></span></span></span></span></span></span></span></span> =1/𝑝, what is the value of the product 𝑥𝑦𝑧?<div></div>",
