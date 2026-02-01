@@ -5,6 +5,9 @@ import ResultView from './components/ResultView';
 import { loadQuestions } from './util';
 import { UserResponse, TestResult, Question, QuestionType } from './types';
 
+//Analytics
+import { Analytics } from "@vercel/analytics/react"; 
+
 enum AppState {
   START,
   QUIZ,
@@ -92,6 +95,7 @@ const App: React.FC = () => {
 
   return (
     <div>
+        <Analytics /> 
       {appState === AppState.START && (
         <StartScreen onStart={handleStart} allQuestions={allQuestions} />
       )}
