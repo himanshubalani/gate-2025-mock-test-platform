@@ -1,6 +1,7 @@
 export enum QuestionType {
   MCQ = 'MCQ',
-  SA = 'SA' // Short Answer / NAT
+  SA = 'SA', // Short Answer
+  NAT = 'NAT' // Numeric Answer
 }
 
 export enum QuestionStatus {
@@ -50,5 +51,6 @@ export interface TestResult {
     question: Question;
     userAnswer: string | null;
     isCorrect: boolean;
+    timeSpent: number;
   }[];
 }

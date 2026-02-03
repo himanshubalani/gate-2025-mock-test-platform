@@ -4,8 +4,6 @@ import QuizView from './components/QuizView';
 import ResultView from './components/ResultView';
 import { loadQuestions } from './util';
 import { UserResponse, TestResult, Question, QuestionType } from './types';
-
-//Analytics
 import { Analytics } from "@vercel/analytics/react"; 
 
 enum AppState {
@@ -14,6 +12,38 @@ enum AppState {
   RESULT
 }
 
+// Helper function to check answers
+const isAnswerCorrect = (userAns: string, correctAns: string, type: QuestionType): boolean => {
+  if (!userAns) return false;
+  const cleanUser = userAns.trim().toLowerCase();
+  const cleanCorrect = correctAns.trim().toLowerCase();
+
+  if (type === QuestionType.MCQ) {
+    if (cleanUser === cleanCorrect) return true;
+    return false; 
+  } 
+  
+  if (type === QuestionType.NAT) {
+    const userNum = parseFloat(cleanUser);
+    if (isNaN(userNum)) return false;
+
+    if (cleanCorrect.includes(',')) {
+      const parts = cleanCorrect.split(',').map(s => parseFloat(s.trim()));
+      if (parts.length === 2) {
+        const min = Math.min(parts[0], parts[1]);
+        const max = Math.max(parts[0], parts[1]);
+        return userNum >= min && userNum <= max;
+      }
+    }
+
+    const correctNum = parseFloat(cleanCorrect);
+    return Math.abs(userNum - correctNum) < 0.000001;
+  }
+
+  return false;
+};
+
+
 const App: React.FC = () => {
   const [appState, setAppState] = useState<AppState>(AppState.START);
   const [result, setResult] = useState<TestResult | null>(null);
@@ -21,20 +51,14 @@ const App: React.FC = () => {
   const [activeQuestions, setActiveQuestions] = useState<Question[]>([]);
   const [testDuration, setTestDuration] = useState<number>(0);
 
-  // Load questions on mount
   useEffect(() => {
     const qs = loadQuestions();
     setAllQuestions(qs);
   }, []);
 
   const handleStart = (duration: number, selectedSources: string[], questionCount: number) => {
-    // 1. Filter by source (Mock Test file)
     let filtered = allQuestions.filter(q => selectedSources.includes(q.sourceFile));
-    
-    // 2. Shuffle
     filtered = filtered.sort(() => Math.random() - 0.5);
-    
-    // 3. Slice to desired count
     const finalQuestions = filtered.slice(0, Math.min(filtered.length, questionCount));
     
     setActiveQuestions(finalQuestions);
@@ -42,7 +66,7 @@ const App: React.FC = () => {
     setAppState(AppState.QUIZ);
   };
 
-  const calculateResult = (responses: UserResponse[], timeTaken: number) => {
+const calculateResult = (responses: UserResponse[], timeTaken: number) => {
     let correct = 0;
     let incorrect = 0;
     let score = 0;
@@ -54,27 +78,28 @@ const App: React.FC = () => {
       totalMarks += q.marks;
       const response = responses.find(r => r.questionId === q.id);
       const userAnswer = response?.answer || null;
+      const timeSpent = response?.timeSpent || 0; // <--- Capture time spent
+      
       let isCorrect = false;
 
       if (userAnswer) {
         attempted++;
-        totalAttemptedMarks += q.marks; // Track marks of only attempted questions
+        totalAttemptedMarks += q.marks;
         
-        // Exact string match (e.g., "A" === "A" or "50" === "50")
-        if (userAnswer.trim().toLowerCase() === q.correctAnswer.trim().toLowerCase()) {
-          isCorrect = true;
+        isCorrect = isAnswerCorrect(userAnswer, q.correctAnswer as string, q.type);
+
+        if (isCorrect) {
           correct++;
           score += q.marks;
         } else {
           incorrect++;
-          // Negative Marking: Only for MCQs
           if (q.type === QuestionType.MCQ) {
               score -= q.marks / 3;
           }
         }
       }
 
-      return { question: q, userAnswer, isCorrect };
+      return { question: q, userAnswer, isCorrect, timeSpent }; // <--- Pass it here
     });
 
     const res: TestResult = {
